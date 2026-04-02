@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy Felipe 👋
 
-<!--
-**Villalobos-TI/Villalobos-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnico en Soporte TI | Ingeniero en Computación e Informática**  
+📍 Viña del Mar, Chile
 
-Here are some ideas to get you started:
+Profesional TI con formación en ingeniería y especialización en ciberseguridad. Apasionado por resolver problemas tecnicos y de computación. Actualmente enfocado en Soporte Tier 3 y en proceso de certificación SOC analytics Ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Formación
+
+| Título | Institución |
+|--------|-------------|
+| Ingeniero en Computación e Informática | Universidad Andres Bello |
+| Diplomado en Ciberseguridad Avanzada | Duoc UC |
+
+**Certificaciones:**
+- 📘 CompTIA A+ 
+- 📗 CompTIA Network+ 
+- 📕 CompTIA Security+ 
+
+---
+
+## 📫 Contacto
+
+🐙 [github.com/villadelobo](https://github.com/Villalobos-TI)
+
+---
+
+*Portafolio en construcción — nuevos proyectos cada mes* 🚀
